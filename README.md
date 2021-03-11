@@ -1,1 +1,5 @@
-# Basic_Snake_Game
+# About
+A basic snake game.
+
+# Keybindings
+You can play with arrow keys.
